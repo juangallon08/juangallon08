@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Juan David Gallón</h1>
+<h1 align="center">Hi 👋, i’m Juan David Gallón</h1>
 <h3 align="center">Instrumentation and control engineer</h3>
 
 - 🌱I'm currently learning **Data science**
